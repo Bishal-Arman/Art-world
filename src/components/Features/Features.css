@@ -1,0 +1,12 @@
+/* for all features */
+.features{
+    margin-top: 25px;
+}
+.about{
+    border: 3px solid rgb(240, 221, 221);
+    box-shadow: 5px 3px 6px 1px rgb(226, 215, 215);
+    margin-right: 20px;
+}
+span{
+    color:rgb(235, 48, 15)
+}

@@ -1,0 +1,43 @@
+.footer{
+   background-color: gray;
+  border-radius: 20px;
+   margin: auto;
+
+   
+}
+/* for input field */
+.input-field{
+    width: 50%;
+    margin: auto;
+    
+}
+/* for input button  */
+.button{
+  color: white;
+  border-radius: 20px;
+}
+/* for footer menu  */
+.footer-menu{
+    margin-left:150px;
+}
+.footer-menu h3{
+    color: rgb(235, 215, 215);
+}
+.footer-menu p{
+    
+    font-weight: 700;
+}
+.footer-heading{
+    color: rgb(27, 6, 148);
+    font-style:italic;
+    font-weight: bold;
+    padding-top: 20px;
+}
+/* for copyright line */
+.copyright{
+    color:rgb(100, 10, 10);
+    text-align: center;
+    margin:5px 0px;
+    padding-bottom: 10px;
+    font-weight: 500
+}

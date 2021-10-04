@@ -1,0 +1,14 @@
+/* for navbar left part */
+.nav-left{
+    font-size: 33px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* for navbar right part */
+.nav-right{
+    font-size:25px;
+}
+/* for nav menu  */
+.menu{
+    margin-right: 20px;
+}

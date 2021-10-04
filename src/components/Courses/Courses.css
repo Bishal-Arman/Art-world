@@ -1,0 +1,20 @@
+/* image in courses */
+.courses Img{
+    border-radius: 10px;
+    object-fit: cover;
+    height: 400px;
+    object-fit: cover;
+    padding: 5px;
+}
+/* for all courses */
+.courses{
+    width:600px;
+    margin:40px auto;
+    border-radius: 20px;
+    width: 95%;
+    border: 1px solid white;
+  
+}
+.courses span{
+    color:rgb(235, 48, 15); 
+}

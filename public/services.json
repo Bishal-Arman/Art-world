@@ -1,0 +1,18 @@
+[
+{"id":1,"name":"Painting in Art","days":"Wednesday,Thursday","Time":"1.00 pm - 4.30 pm ","price":230,"img":"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/1087424/settings_images/WRtEBKORj6yqgLxwnxO6_Demi_cover_1_1.jpg"},
+
+{"id":2,"name":"Photography in Art Culture","days":"Friday","Time":"6.00 pm - 8.30 pm ","price":150,"img":"https://www.timeoutabudhabi.com/public/images/2020/02/19/art_and_culture_in_abu_dhabi_10.jpg"},
+
+{"id":3,"name":"Three-Dimensional Sculpture","days":"Saturday,Sunday","Time":"7.45 am - 10.30 pm ","price":350,"img":"https://static.eporta.com/media/sebastian-welzel-design-three-dimensional-wall-sculpture-hexagonal-cis-2-topographie-252-1559135320302-9203__p__.png"},
+
+{"id":4,"name":"Iphoneography Workshop","days":"Friday","Time":"2.45 am - 5.30 pm ","price":170,"img":"https://cascade.madmimi.com/promotion_images/0904/7948/original/carmelB_W_copy.jpg?1484344942"},
+
+{"id":5,"name":"Sketching","days":"saturday","Time":"11.0 am - 1.30 pm ","price":150,"img":"https://www.skillshare.com/blog/wp-content/uploads/2021/05/Still-10.png?w=1024"},
+
+{"id":6,"name":"Drawing from Life","days":"sunday-monday","Time":"9.0 am - 10.30 pm ","price":240,"img":"http://crown-art.ancorathemes.com/wp-content/uploads/2017/03/image-21-770x334.jpg"},
+
+{"id":7,"name":"Advanced Digital Arts","days":"Friday","Time":"7.0 am - 9.30 pm ","price":300,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQHfC2Hg5l1z76rdxNr8WQMsF_ks7v7l1vg&usqp=CAU"},
+
+{"id":8,"name":"Abstracting from the Image","days":"Wednesday,Thursday","Time":"7.0 am - 9.30 pm ","price":220,"img":"http://crown-art.ancorathemes.com/wp-content/uploads/2017/03/image-22-770x334.jpg"},
+
+{"id":9,"name":"Anatomical Drawing","days":"Monday,Friday","Time":"8.45 am - 12.30 pm ","price":150,"img":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/bf34fd33171469.5605d315dc1d9.jpg"}]
